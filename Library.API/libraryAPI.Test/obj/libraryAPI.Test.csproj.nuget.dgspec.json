@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SR\\Downloads\\Library.API\\libraryAPI.Test\\libraryAPI.Test.csproj": {}
+    "C:\\project\\Library.API\\libraryAPI.Test\\libraryAPI.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SR\\Downloads\\Library.API\\Library.API\\Library.API.csproj": {
+    "C:\\project\\Library.API\\Library.API\\Library.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SR\\Downloads\\Library.API\\Library.API\\Library.API.csproj",
+        "projectUniqueName": "C:\\project\\Library.API\\Library.API\\Library.API.csproj",
         "projectName": "Library.API",
-        "projectPath": "C:\\Users\\SR\\Downloads\\Library.API\\Library.API\\Library.API.csproj",
+        "projectPath": "C:\\project\\Library.API\\Library.API\\Library.API.csproj",
         "packagesPath": "C:\\Users\\SR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SR\\Downloads\\Library.API\\Library.API\\obj\\",
+        "outputPath": "C:\\project\\Library.API\\Library.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SR\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\SR\\Downloads\\Library.API\\libraryAPI.Test\\libraryAPI.Test.csproj": {
+    "C:\\project\\Library.API\\libraryAPI.Test\\libraryAPI.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SR\\Downloads\\Library.API\\libraryAPI.Test\\libraryAPI.Test.csproj",
+        "projectUniqueName": "C:\\project\\Library.API\\libraryAPI.Test\\libraryAPI.Test.csproj",
         "projectName": "libraryAPI.Test",
-        "projectPath": "C:\\Users\\SR\\Downloads\\Library.API\\libraryAPI.Test\\libraryAPI.Test.csproj",
+        "projectPath": "C:\\project\\Library.API\\libraryAPI.Test\\libraryAPI.Test.csproj",
         "packagesPath": "C:\\Users\\SR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SR\\Downloads\\Library.API\\libraryAPI.Test\\obj\\",
+        "outputPath": "C:\\project\\Library.API\\libraryAPI.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SR\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -95,8 +95,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\SR\\Downloads\\Library.API\\Library.API\\Library.API.csproj": {
-                "projectPath": "C:\\Users\\SR\\Downloads\\Library.API\\Library.API\\Library.API.csproj"
+              "C:\\project\\Library.API\\Library.API\\Library.API.csproj": {
+                "projectPath": "C:\\project\\Library.API\\Library.API\\Library.API.csproj"
               }
             }
           }

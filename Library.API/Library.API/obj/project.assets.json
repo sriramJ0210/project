@@ -6293,11 +6293,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SR\\Downloads\\Library.API\\Library.API\\Library.API.csproj",
+      "projectUniqueName": "C:\\project\\Library.API\\Library.API\\Library.API.csproj",
       "projectName": "Library.API",
-      "projectPath": "C:\\Users\\SR\\Downloads\\Library.API\\Library.API\\Library.API.csproj",
+      "projectPath": "C:\\project\\Library.API\\Library.API\\Library.API.csproj",
       "packagesPath": "C:\\Users\\SR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SR\\Downloads\\Library.API\\Library.API\\obj\\",
+      "outputPath": "C:\\project\\Library.API\\Library.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SR\\AppData\\Roaming\\NuGet\\NuGet.Config",
